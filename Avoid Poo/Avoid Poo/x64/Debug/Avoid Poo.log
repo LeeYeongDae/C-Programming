@@ -1,8 +1,0 @@
-﻿  똥피하기.c
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(177,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(219,25): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'void *'과(와) 다릅니다.
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(219,21): warning C4024: 'malloc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(219,26): warning C4311: '형식 캐스트': 'void *'에서 'int'(으)로 포인터가 잘립니다.
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(213,7): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
-C:\Users\Ao.D\source\repos\Avoid Poo\Avoid Poo\똥피하기.c(209): warning C4716: 'OnResult': 값을 반환해야 합니다.
-  Avoid Poo.vcxproj -> C:\Users\Ao.D\source\repos\Avoid Poo\x64\Debug\Avoid Poo.exe
